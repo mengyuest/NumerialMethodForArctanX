@@ -1,0 +1,6 @@
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\bin\Debug\TestDebugPlatform.exe.config
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\bin\Debug\TestDebugPlatform.exe
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\bin\Debug\TestDebugPlatform.pdb
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\obj\Debug\TestDebugPlatform.exe
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\obj\Debug\TestDebugPlatform.pdb
+D:\Tsinghua\大三上\数值分析\大作业二\ArcTanX\TestDebugPlatform\obj\Debug\TestDebugPlatform.csprojResolveAssemblyReference.cache
